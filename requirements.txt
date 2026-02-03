@@ -1,0 +1,25 @@
+py7zr==0.22.0
+einops==0.8.1
+accelerate==1.4.0
+evaluate==0.4.3
+bert_score==0.3.13
+absl-py==2.1.0
+nltk==3.9.1
+rouge-score==0.1.2
+sacremoses==0.1.1
+sortedcontainers==2.4.0
+subword-nmt==0.3.8
+torchmetrics==0.10.3
+peft==0.14.0
+llm-blender==0.0.2
+tensorboard==2.19.0
+unsloth==2025.8.9
+unsloth_zoo==2025.8.8
+trl==0.21.0
+vllm==0.9.2
+unbabel-comet==2.2.6
+bleurt-pytorch @ git+https://github.com/lucadiliello/bleurt-pytorch.git@279ca1bb4106bde5a89f0f82723197e23d8446cb
+bitsandbytes>=0.46.1
+transformers==4.55.4
+
+
